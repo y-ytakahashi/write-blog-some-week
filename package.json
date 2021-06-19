@@ -1,0 +1,12 @@
+{
+  "name": "write-blog-some-week",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/y-ytakahashi/write-blog-some-week.git",
+  "author": "y-ytakahashi <ty.ytakahashi.work@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "zenn-cli": "^0.1.88"
+  }
+}
